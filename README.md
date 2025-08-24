@@ -29,7 +29,7 @@ A python based weather application with PyQt5 GUI that:
 4. provides clothes recommendations according to the weather
  
 ## Project Structure
-
+```bash
 weather-app/
 ├── icon/
 ├── screenshots/
@@ -42,7 +42,7 @@ weather-app/
 ├── requirements.txt
 ├── weather.jpg
 └── weatherapp.py
-
+```
 
 ## Installation
 1. Clone this repository:
