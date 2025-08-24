@@ -44,7 +44,7 @@ PROJECT1/
 
 ## Installation
 1. Clone this repository:
-```bash
+   ```bash
    git clone https://github.com/srijaredddybaradi/weather-app.git
    cd weather-app
 
