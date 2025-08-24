@@ -27,20 +27,22 @@ A python based weather application with PyQt5 GUI that:
 2. refreshes automatically every 10minutes and updates the weather accordingly
 3. provides you with a search bar to manually search different cities globally
 4. provides clothes recommendations according to the weather
+ 
+## Project Structure
 
-## project structure 
-PROJECT1/
-|──>icon/
-|──>screenshots/
-|     |── alerts.png
-|     |── change_and_search.png
-|     |── mainwindow.png
-|──>.env
-|──>.gitignore
-|──>README.md
-|──>requirements.txt
-|──>weather.jpg
-|──>weatherapp.py
+weather-app/
+├── icon/
+├── screenshots/
+│ ├── alerts.png
+│ ├── change_and_search.png
+│ └── mainwindow.png
+├── .env.example
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── weather.jpg
+└── weatherapp.py
+
 
 ## Installation
 1. Clone this repository:
