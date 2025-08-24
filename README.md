@@ -10,12 +10,21 @@ A python based weather application with PyQt5 GUI that:
 - recommends playlist and clothing recommendations according to the weather conditions
 
 ## GUI and window looks this way
-- the main window(auto_detects city)
- ![Main Window](screenshots/mainwindow.png)
-- the alerts 
-![Alerts](screenshots/alerts.png)
-- the dynamic bg_color and icons by searching manually
-![Dynamic UI](screenshots/change_and_search.png)
+
+- **The main window (auto-detects city)**  
+<p align="center">
+  <img src="screenshots/mainwindow.png" width="400">
+</p>
+
+- **The alerts**  
+<p align="center">
+  <img src="screenshots/alerts.png" width="400">
+</p>
+
+- **The dynamic bg_color and icons by searching manually**  
+<p align="center">
+  <img src="screenshots/change_and_search.png" width="400">
+</p>
 
 ## features:
 1. fetches weather with 
