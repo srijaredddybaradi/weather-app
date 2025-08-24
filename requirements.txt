@@ -1,0 +1,5 @@
+PyQt5>=5.15.9
+requests>=2.31.0
+python-dotenv>=1.1.1
+geocoder>=1.38.1
+plyer>=2.0.0
