@@ -49,18 +49,21 @@ PROJECT1/
    cd weather-app
 
 2. Create virtual environment
+   ```bash
    python -m venv venv
    source venv/bin/activate   # On Linux/Mac
    venv\Scripts\activate      # On Windows
 
-3. Install requirements
+4. Install requirements
+   ```bash
    pip install -r requirements.txt
 
-4. Add .env file with API keys
-   WEATHER_KEY=your_api_keys(openweathermap)
-   API_KEY=your_api_keys(ip_geolocation)
+6. Add .env file with API keys
+   - WEATHER_KEY=your_api_keys(openweathermap)
+   - API_KEY=your_api_keys(ip_geolocation)
 
-5. Run the app
+7. Run the app
+   ```bash
    python weatherapp.py
 
 ## API Usage
