@@ -53,6 +53,8 @@ weather-app/
 └── weatherapp.py
 ```
 
+5. playlist has a mix of bollywood, tollywood, and hollywood songs to match the weather
+
 ## Installation
 1. Clone this repository:
    ```bash
