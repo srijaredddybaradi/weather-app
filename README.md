@@ -1,4 +1,4 @@
-# Smart weather app
+R# Smart weather app
 ## titled: know your degree
 A python based weather application with PyQt5 GUI that:
 - does real time tracking
